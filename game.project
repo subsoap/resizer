@@ -1,0 +1,15 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[project]
+title = ResizerExample
+dependencies = https://github.com/subsoap/defos/archive/master.zip,https://github.com/andsve/def-mnu/archive/master.zip
+
+[display]
+width = 800
+height = 600
+high_dpi = 1
+
